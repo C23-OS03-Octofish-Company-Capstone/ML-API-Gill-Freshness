@@ -20,4 +20,4 @@ Base URL:
     "prediction": "Tidak Segar"
 }
 ```
-_note: file mata_final.h5 tidak bisa disertakan karena ukuran terlalu besar dan sudah disertakan pada branch model machine learning_
+_note: file mata_final.h5 di .gitignore karena ukuran terlalu besar dan sudah disertakan pada branch model machine learning_
